@@ -1,0 +1,62 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{natbib}
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{amsfonts}
+\usepackage{makeidx}
+\usepackage{lmodern}
+\usepackage{grffile}
+\usepackage{hyperref}
+\graphicspath{ {figures/} }
+\usepackage{array}
+\usepackage{tocloft}
+\usepackage{mathrsfs}
+\usepackage[final]{pdfpages}
+
+\usepackage[left=2.54cm,right=2.54cm,top=2cm,bottom=2cm]{geometry}
+\linespread{1.2}
+
+\begin{document}
+
+	\begin{titlepage}
+		\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+		
+		\centering
+		{\scshape\LARGE Professional Development Plan \par}
+		\vspace{1,5cm}		
+		{ by \par}
+		\vspace{1,5cm}
+		{\scshape\LARGE Pierre Le Roux \\
+						u13112262\par}
+						
+	%Insert Figure
+		
+		
+
+	% Bottom of the page
+		\vfill						
+		{\large May 16, 2016\par}
+		
+		\vspace*{1cm}	
+		\noindent\makebox[\linewidth]{\rule{\paperwidth}{0.4pt}}
+	\end{titlepage}
+	
+	\pagebreak
+
+	
+	
+	\renewcommand{\contentsname}{Table of Contents}
+	\clearpage\tableofcontents
+	\addtocontents{toc}{~\hfill\textbf{Page}\par}
+	\pagenumbering{Roman}
+		
+	\pagebreak	
+	
+	\pagenumbering{arabic}
+	\setcounter{page}{1}
+	
+	\section{Introduction}
+				
+
+\end{document}
