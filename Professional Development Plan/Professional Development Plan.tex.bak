@@ -7,13 +7,18 @@
 \usepackage{makeidx}
 \usepackage{lmodern}
 \usepackage{grffile}
-\usepackage{hyperref}
 \graphicspath{ {figures/} }
 \usepackage{array}
 \usepackage{tocloft}
 \usepackage{mathrsfs}
 \usepackage[final]{pdfpages}
 \usepackage{fancyhdr}
+\usepackage{xcolor}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}
 
 \usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
 \linespread{1}
@@ -81,10 +86,50 @@
 	
 	\section{Commitments}
 		The FCE's has not commitments to a third party in terms of completing his B.Ing. degree.
-		While it is fortunate that the FCE doesn't have any contractual requirement in terms of employment, but on the other hand the FCE will need to find employment to ensure he can complete the requirements in terms of the eleven ECSA outcomes, 
-	
+		While it is fortunate that the FCE doesn't have any contractual requirement in terms of employment, but on the other hand the FCE will need to find employment to ensure he can complete the requirements in terms of the eleven ECSA outcomes and completing activities for CPD credits - Developmental, work-based and individual.
 	
 	\section{CDP To Achieve Professional Registration}
+		If the FCE passes all his module this year he will graduate at the end of 2016.
+		The FCE hopes that FlySafair would provide work for him based on the results of his final year project.
+		Concerning the FCE's interests the following directions, but not limited to, are available:
+		
+		\begin{enumerate}
+		\item	\textbf{Automation and Control} in decision support mechanisms
+		
+		\item	\textbf{Operations Research} in logistics
+		
+		\item	\textbf{Processes} in service industries
+		
+		\item	\textbf{Robotics and Production} in manufacturing industries
+		
+		\end{enumerate}
+		
+		Development in any of the above field is acceptable according to CITE(ECSA 2013a) as it is specific to the industrial engineering field. With FlySafair \textbf{Automation and Control} and \textbf{Operations Research} will be developed over a period of 36 months to comply with outcomes as stated in CITE(ECSA 2012).
+		
+	\subsection{ECSA's Eleven Competency Standards}
+		In figure \ref{fig: ECSA}, ECSA's eleven outcomes are summaries as stated in R-08-PE. 
+		Theses consists of five main groups:
+		
+		\begin{itemize}
+		
+		\item[]	\textbf{Group A:} Knowledge-based Engineering Problem Solving (Outcomes 1, 2, 3)
+			
+
+		\item[]	\textbf{Group B:} Managing Engineering Activities (Outcomes 4, 5)
+
+		\item[]	\textbf{Group C:} Risk and Impact Mitigation (Outcomes 6, 7)
+
+		\item[]	\textbf{Group D:} Exercising Judgement and Taking Responsibility (Outcomes 8, 9, 10)
+
+		\item[]	\textbf{Group E:} Developing Own Competency (Outcome 11)
+				
+		\end{itemize}
+
+		\begin{figure}[H]
+		\centering
+		\includegraphics[width=\textwidth]{Extra/ECSA_Outcomes.png}
+		\caption{Nested ECSA Outcomes for Registration as a Professional Engineer}\label{fig: ECSA}
+		\end{figure}
 	
 	
 	\section{Full CPD Cycle as a Registered Professional Engineer}
