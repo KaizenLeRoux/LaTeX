@@ -1,0 +1,47 @@
+@misc{ECSA_2012a,
+  author = {Engineering Council of South Africa},
+  title = {{Competency Standard for Registration as a Professional Engineer}},
+  howpublished = "\url{https://www.ecsa.co.za/RegisterDocuments/R-02-PE.pdf}",
+  year = {2012}, 
+  note = "(visited on 2016-05-22)"
+}
+
+@misc{ECSA_2013a,
+  author = {Engineering Council of South Africa},
+  title = {{Discipline-specific Training Guideline for Professional Engineers in Industrial Engineering}},
+  howpublished = "\url{https://www.ecsa.co.za/ECSADocuments/ECSA%20Documents/Documents/R-05-IND-PE.pdf}",
+  year = {2013}, 
+  note = "(visited on 2016-05-22)"
+}
+
+@misc{ECSA_2012b,
+  author = {Engineering Council of South Africa},
+  title = {{Guide to the Competency Standards for Registration as a Professional Engineer}},
+  howpublished = "\url{https://www.ecsa.co.za/ECSADocuments/ECSA%20Documents/Documents/R-08-PE.pdf}",
+  year = {2012}, 
+  note = "(visited on 2016-05-22)"
+}
+
+@misc{ECSA_2013b,
+  author = {Engineering Council of South Africa},
+  title = {{Rules of Conduct for Registered Persons}},
+  howpublished = "\url{https://www.ecsa.co.za/regulation/RegulationDocs/2014_Code_of_Conduct.pdf}",
+  year = {2013}, 
+  note = "(visited on 2016-05-22)"
+}
+
+@misc{ECSA_2013c,
+  author = {Engineering Council of South Africa},
+  title = {{Policy on Continuing Professional Development}},
+  howpublished = "\url{https://www.ecsa.co.za/maintainregistration/MaintainReg/CPD_Policy.pdf}",
+  year = {2013}, 
+  note = "(visited on 2016-05-22)"
+}
+
+@misc{SAIIEa,
+  author = {Lynette Pieterse},
+  title = {{Approved Courses}},
+  howpublished = "\url{https://www.saiie.co.za/cms/category/53-approved-courses}",
+  year = {2016}, 
+  note = "(visited on 2016-05-22)"
+}

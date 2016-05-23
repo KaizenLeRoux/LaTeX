@@ -1,5 +1,46 @@
-This is BibTeX, Version 0.99dThe top-level auxiliary file: Professional Development Plan.aux
-I found no \citation commands---while reading file Professional Development Plan.aux
-I found no \bibdata command---while reading file Professional Development Plan.aux
-I found no \bibstyle command---while reading file Professional Development Plan.aux
-(There were 3 error messages)
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Professional Development Plan.aux
+The style file: plainnat.bst
+Database file #1: References.bib
+You've used 6 entries,
+            2773 wiz_defined-function locations,
+            622 strings with 5862 characters,
+and the built_in function-call counts, 1861 in all, are:
+= -- 168
+> -- 60
+< -- 6
++ -- 27
+- -- 18
+* -- 90
+:= -- 291
+add.period$ -- 24
+call.type$ -- 6
+change.case$ -- 24
+chr.to.int$ -- 3
+cite$ -- 12
+duplicate$ -- 90
+empty$ -- 193
+format.name$ -- 24
+if$ -- 397
+int.to.chr$ -- 4
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 44
+num.names$ -- 24
+pop$ -- 72
+preamble$ -- 1
+purify$ -- 18
+quote$ -- 0
+skip$ -- 66
+stack$ -- 0
+substring$ -- 12
+swap$ -- 11
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 0
+while$ -- 18
+width$ -- 0
+write$ -- 91

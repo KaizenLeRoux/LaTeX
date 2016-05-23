@@ -1,0 +1,55 @@
+\begin{thebibliography}{6}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[of~South~Africa(2012{\natexlab{a}})]{ECSA_2012a}
+Engineering~Council of~South~Africa.
+\newblock {Competency Standard for Registration as a Professional Engineer}.
+\newblock \url{https://www.ecsa.co.za/RegisterDocuments/R-02-PE.pdf},
+  2012{\natexlab{a}}.
+\newblock (visited on 2016-05-22).
+
+\bibitem[of~South~Africa(2012{\natexlab{b}})]{ECSA_2012b}
+Engineering~Council of~South~Africa.
+\newblock {Guide to the Competency Standards for Registration as a Professional
+  Engineer}.
+\newblock
+  \url{https://www.ecsa.co.za/ECSADocuments/ECSA%20Documents/Documents/R-08-PE.pdf},
+  2012{\natexlab{b}}.
+\newblock (visited on 2016-05-22).
+
+\bibitem[of~South~Africa(2013{\natexlab{a}})]{ECSA_2013a}
+Engineering~Council of~South~Africa.
+\newblock {Discipline-specific Training Guideline for Professional Engineers in
+  Industrial Engineering}.
+\newblock
+  \url{https://www.ecsa.co.za/ECSADocuments/ECSA%20Documents/Documents/R-05-IND-PE.pdf},
+  2013{\natexlab{a}}.
+\newblock (visited on 2016-05-22).
+
+\bibitem[of~South~Africa(2013{\natexlab{b}})]{ECSA_2013b}
+Engineering~Council of~South~Africa.
+\newblock {Rules of Conduct for Registered Persons}.
+\newblock
+  \url{https://www.ecsa.co.za/regulation/RegulationDocs/2014_Code_of_Conduct.pdf},
+  2013{\natexlab{b}}.
+\newblock (visited on 2016-05-22).
+
+\bibitem[of~South~Africa(2013{\natexlab{c}})]{ECSA_2013c}
+Engineering~Council of~South~Africa.
+\newblock {Policy on Continuing Professional Development}.
+\newblock
+  \url{https://www.ecsa.co.za/maintainregistration/MaintainReg/CPD_Policy.pdf},
+  2013{\natexlab{c}}.
+\newblock (visited on 2016-05-22).
+
+\bibitem[Pieterse(2016)]{SAIIEa}
+Lynette Pieterse.
+\newblock {Approved Courses}.
+\newblock \url{https://www.saiie.co.za/cms/category/53-approved-courses}, 2016.
+\newblock (visited on 2016-05-22).
+
+\end{thebibliography}
